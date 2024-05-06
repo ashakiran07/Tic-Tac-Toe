@@ -1,7 +1,7 @@
-Introduction:
+## Introduction:
 Tic Tac Toe is a classic game played on a 3x3 grid where players take turns marking spaces with their symbols (usually "X" and "O") until one player wins by placing three of their symbols in a row, column, or diagonal, or the game ends in a draw.
 
-FEATURES
+## FEATURES
 -Play against a friend or against the computer AI.
 -Simple and intuitive user interface.
 -Automatic detection of the winner or draw.
@@ -9,12 +9,19 @@ FEATURES
 -How to Play
   Open the game in a web browser.
   Select whether you want to play as "X" or "O".
+
   Click on the empty cells in the grid to make your move.
+
   If playing against the computer, wait for the AI to make its move.
   The game will automatically detect if there's a winner or if it's a draw.
   Use the replay button to start a new game.
 
-TECHNOLOGIES USED:
+![Select](/public/img/tictactoe1.png)
+![Make your Move](/public/img/tictactoe2.png)
+![Game over! Replay](/public/img/tictactoe3.png)
+
+
+## TECHNOLOGIES USED:
 HTML
 CSS
 JavaScript
@@ -24,4 +31,4 @@ Open index.html in a web browser.
 Follow the on-screen instructions to play the game.
 
 Credits
-This game was created by Asha Kiran Devkota as a practice.
+This game was created by ©Asha Kiran Devkota 2024.
