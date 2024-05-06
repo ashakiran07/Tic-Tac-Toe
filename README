@@ -9,16 +9,13 @@ Tic Tac Toe is a classic game played on a 3x3 grid where players take turns mark
 -How to Play
   Open the game in a web browser.
   Select whether you want to play as "X" or "O".
-<img src="public/img/tictactoe1.png" alt="Select">
 
 
   Click on the empty cells in the grid to make your move.
-<img src="public/img/tictactoe2.png" alt="Select">
 
   If playing against the computer, wait for the AI to make its move.
   The game will automatically detect if there's a winner or if it's a draw.
   Use the replay button to start a new game.
-<img src="public/img/tictactoe3.png" alt="Select">
 
 
 ## TECHNOLOGIES USED:
