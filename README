@@ -1,10 +1,10 @@
 ## LIVE HERE:
 ashakiran07.github.io/Tic-Tac-Toe/
 
-## Introduction:
+## INTRO:
 Tic Tac Toe is a classic game played on a 3x3 grid where players take turns marking spaces with their symbols (usually "X" and "O") until one player wins by placing three of their symbols in a row, column, or diagonal, or the game ends in a draw.
 
-## FEATURES
+## FEATURES:
 -Play against a friend or against the computer AI.
 -Simple and intuitive user interface.
 -Automatic detection of the winner or draw.
