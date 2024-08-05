@@ -10,6 +10,7 @@ resultBox = document.querySelector(".result-box"),
 wonText = resultBox.querySelector(".won-text"),
 replayBtn = resultBox.querySelector("button");
 
+
 window.onload = ()=>{
     // make sure all the boxes in the board are clickable
     for (let i = 0; i < allBox.length; i++) {
