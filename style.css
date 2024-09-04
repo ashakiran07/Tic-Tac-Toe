@@ -218,6 +218,7 @@ body{
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
 @media (max-width:768px) {
   /* Adjust styles for smaller screens if needed */
   body {
