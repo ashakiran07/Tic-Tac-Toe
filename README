@@ -19,8 +19,6 @@ Tic Tac Toe is a classic game played on a 3x3 grid where players take turns mark
   5. The game will automatically detect if there's a winner or if it's a draw.
   6. Use the replay button to start a new game.
 
-
-
 ## TECHNOLOGIES USED:
 HTML
 CSS
